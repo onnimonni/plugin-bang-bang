@@ -14,7 +14,11 @@ This plugin wraps [Aerys Bat's implementation](https://github.com/fish-shell/fis
 ## Install
 
 ```fish
-$ omf install bang-bang 
+# Install with oh-my-fish
+$ omf install bang-bang
+
+# Or alternatively through fisher
+$ fisher install oh-my-fish/plugin-bang-bang
 ```
 
 ## Usage
